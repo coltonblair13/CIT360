@@ -1,0 +1,28 @@
+<!-- Start File
+Understanding Portfolio — Week of feb. 2 - feb. 7
+
+UML Diagrams/Sequence Diagrams
+
+This week I spent quite a bit of time looking over and researching different UML Diagrams. In the system analysis class I struggled a little bit with understanding
+these different diagrams especially sequence diagrams. I found a really cool website that shows different examples of sequence diagrams. It is at 
+http://www.tracemodeler.com/articles/a_quick_introduction_to_uml_sequence_diagrams/. One of the main things that I learned about a sequence diagram is that 
+sequence diagrams are used to show how objects interact in a given situation. An important characteristic of a sequence diagram is that time passes from top to bottom : the interaction starts near the top of the diagram and ends at the bottom. They are also very popular in using with object oriented programming or situations to see how each object responds when it is used. Suprisingly though I could not find to many examples of this happening. 
+
+I used some code from a different class to explain a sequence diagram to my peers. I also found a cool plug in for eclipse called architexa that lets you drag classes or objects in and then build the sequence off of those. I explain this in my own video. The video of me teaching my peers is in our group community at B-W15-CIT 360. It was posted on Jan 29th and my part starts at 20 min 22 seconds.
+
+My personal video of explaining architexa more thoroughly is on the class community CIT 360 Class Community W15-03. It was posted on Jan 31st 2015 under sharing videos. 
+
+
+
+JavaBeans
+I have also started learning about JavaBeans and how they are used to encapsulate many objects into a single object to be used in different classes. I struggled learning about this one but am still working on it and am in the process of writing code to calculate temperature from farenheit to celsius and vice versa. This code can be found on my git hub repository for this class. 
+
+https://github.com/coltonblair13/CIT360.git
+
+The temp.java holds the serializble javabean as well as the getters and setters. I have added some comments explaining what I understand about it to the code. This can be found at https://github.com/coltonblair13/CIT360/blob/master/temp.java
+
+I am also working at creating different UML Diagrams for this code. 
+
+Video of me teaching what little I knew about JavaBeans can be found on our group community B-W15-CIT 360. It was posted on Jan. 23rd and my part starts at 32:41.
+
+End File -->﻿
