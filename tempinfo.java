@@ -1,4 +1,4 @@
---This gains access to the java beans classes
+//This gains access to the java beans classes
 
 import java.beans.*;
 import jav.lan.reflect.Method;
