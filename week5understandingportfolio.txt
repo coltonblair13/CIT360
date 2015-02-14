@@ -1,0 +1,22 @@
+<!-- Start File
+Understanding Portfolio — Week of feb. 2 - feb. 7
+
+Java Collections
+
+So this week I decided I would really focus on learning more about Java Collections. Last week I talked a little about JavaBeans and how they worked and how they go hand in hand with Java Collections. A collection — sometimes called a container — is simply an object that groups multiple elements into a single unit. Collections are used to store, retrieve, manipulate, and communicate aggregate data. Typically, they represent data items that form a natural group, such as a poker hand (a collection of cards), a mail folder (a collection of letters), or a telephone directory (a mapping of names to phone numbers). JavaBeans fit right into this explanation and last week I showed a bean that was used to change temperature from farenheit to celsius or vice versa. This week I looked at sets, lists, and maps data structures. I use a harry potter example where I take a list of books a map of the different houses where the value are the house names and the set of the four different houses in hogwarts. 
+
+Just for this documents sake I will give the definitions of each even though I cover that in my video. 
+
+A list is a finite ordered collection of values. 
+
+A map is a collection of key value pairs, where the value is mapped to the key by a mappingfunction.
+
+A set is a collection of non-repeated values.
+
+I go over each of these in much more detail in the video which can be found in the class community under the sharing videos tab. It is titled Java Collections. Here is the direct link http://www.youtube.com/watch?v=FjIbA2o-Hm8
+
+
+Also here is the link to the code in my github repository in case you want to look it over. Please looke it over if you have time and give me any feedback you want to. All the help I can get the better! 
+
+Thank you so much for your help and time. 
+End File -->﻿
