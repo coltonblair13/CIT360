@@ -1,5 +1,5 @@
 <!-- Start File
-Understanding Portfolio — Week of feb. 2 - feb. 7
+Understanding Portfolio — Week of feb. 8 - feb. 14
 
 Java Collections
 
