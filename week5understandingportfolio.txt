@@ -18,5 +18,14 @@ I go over each of these in much more detail in the video which can be found in t
 
 Also here is the link to the code in my github repository in case you want to look it over. Please looke it over if you have time and give me any feedback you want to. All the help I can get the better! 
 
+
+For the book class https://github.com/coltonblair13/CIT360/blob/master/book.java
+
+For the person class https://github.com/coltonblair13/CIT360/blob/master/person.java
+
+for the house class https://github.com/coltonblair13/CIT360/blob/master/house.java
+
+and for the collection class https://github.com/coltonblair13/CIT360/blob/master/javacollectionsframework.java
+
 Thank you so much for your help and time. 
 End File -->﻿
