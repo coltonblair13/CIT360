@@ -18,4 +18,7 @@ USE Case
 
 This week I also took your advice and dove in a little deaper with my sequence diagrams. I created both a Use Case Diagram and a use case document. My use case diagram is a diagram of some code that creates an etch a sketch type box that you can write in. The diagram represents the user interactions among the elements in the system. I used lucid charts to create this as that is what my work uses so that is what I am most familiar with. I also created a document explaining the use cases and how the user would interact with the program. This is different then the diagram because it is written out where the diagram is just a graphical representation. 
 
+The code used to create the diagram's can be found at https://github.com/coltonblair13/CIT360/blob/master/ControlPanelEtchASketch.java. The diagram can be found at https://github.com/coltonblair13/CIT360/blob/master/Appendix3%20-%20System%20Use%20Case.pdf. And the Description can be found at https://github.com/coltonblair13/CIT360/blob/master/Appendix%201%20-%20Use%20Case%20Descriptions.pdf. Both the diagram and the description are in PDF format. 
+
+Thank you for your time and patience in helping me through this class. Let me know if you have any problems. 
 End File -->﻿
