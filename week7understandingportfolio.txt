@@ -1,5 +1,5 @@
 <!-- Start File
-Understanding Portfolio — Week of feb. 15 - feb. 21
+Understanding Portfolio — Week of feb. 23 - feb. 28
 
 JUNIT/Unit Testing
 
@@ -24,12 +24,14 @@ JUNIT/Unit Testing
 
 I also learned a lot about JUNIT and how awesome of a tool this really is. Junit is a testing framework for JAVA that is important to use when creating test driven development. I thought that it was really interesting that a research study performed in 2013 across 10,000 github projects found that JUnit was one of the most popular libraries. That shows how great of a tool it is and how many people rely on it. I taught my group about JUnit in our meeting this week. At the end of the meeting we learned that our meeting was not being recorded so I decided to dive in deeper and I did my sharing video on JUnit this week as well. It can be found on the class community as my week 7 sharing video. It is also at this youtube link http://www.youtube.com/watch?v=DRtSZY2JiQQ
 
+I also uploaded my JUnit test java file for you to view from my video. It can be found at https://github.com/coltonblair13/CIT360/blob/master/Javacollectionsframeworktest.JAVA
+
 
 Updated Sequence Diagram
 
 I also dove into the sequence diagram a little bit more and created a more detailed diagram. I created the diagram to go over all of the results of using the get message button in my etch a sketch code that I have used before. This button is a little more detailed and multiple things can happen as the diagram will show. It shows how the different processes operate with the getMessage button. 
 
-The code used to create the diagram's can be found at https://github.com/coltonblair13/CIT360/blob/master/ControlPanelEtchASketch.java. The diagram can be found at https://github.com/coltonblair13/CIT360/blob/master/Appendix3%20-%20System%20Use%20Case.pdf. And the Description can be found at https://github.com/coltonblair13/CIT360/blob/master/Appendix%201%20-%20Use%20Case%20Descriptions.pdf. Both the diagram and the description are in PDF format. 
+The code used to create the diagram's can be found at https://github.com/coltonblair13/CIT360/blob/master/ControlPanelEtchASketch.java. The diagram can be found at https://github.com/coltonblair13/CIT360/blob/master/GetMessage.pdf. The diagram is again in pdf format. If there is a better way to push these to git will you let me know. Just so they are easiest for you to view.  
 
 Thank you for your time and patience in helping me through this class. Let me know if you have any problems. 
-End File -->xz﻿
+End File -->
