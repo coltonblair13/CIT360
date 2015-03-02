@@ -16,14 +16,20 @@ I also use @JoinColumn which is used to specify a mapped column for joining an e
 And I use @OneToMany annotation which defines a many-valued association with one-to-many multiplicity.
 If the collection is defined using generics to specify the element type, the associated target entity type need not be specified; otherwise the target entity class must be specified.
 
-The files for my code for this one can be found on my Github page at 
+The files for my code for this one can be found on my Github page at https://github.com/coltonblair13/CIT360/tree/master/Hibernate
+
+I created a new folder for all of my Hibernate stuff so this should house all of the files. The main file to see the one to many is my employee and department JAVA files. 
+
+JUNIT/Unit Testing
+
+I also learned a lot about JUNIT and how awesome of a tool this really is. Junit is a testing framework for JAVA that is important to use when creating test driven development. I thought that it was really interesting that a research study performed in 2013 across 10,000 github projects found that JUnit was one of the most popular libraries. That shows how great of a tool it is and how many people rely on it. I taught my group about JUnit in our meeting this week. At the end of the meeting we learned that our meeting was not being recorded so I decided to dive in deeper and I did my sharing video on JUnit this week as well. It can be found on the class community as my week 7 sharing video. It is also at this youtube link http://www.youtube.com/watch?v=DRtSZY2JiQQ
 
 
-USE Case
+Updated Sequence Diagram
 
-This week I also took your advice and dove in a little deaper with my sequence diagrams. I created both a Use Case Diagram and a use case document. My use case diagram is a diagram of some code that creates an etch a sketch type box that you can write in. The diagram represents the user interactions among the elements in the system. I used lucid charts to create this as that is what my work uses so that is what I am most familiar with. I also created a document explaining the use cases and how the user would interact with the program. This is different then the diagram because it is written out where the diagram is just a graphical representation. 
+I also dove into the sequence diagram a little bit more and created a more detailed diagram. I created the diagram to go over all of the results of using the get message button in my etch a sketch code that I have used before. This button is a little more detailed and multiple things can happen as the diagram will show. It shows how the different processes operate with the getMessage button. 
 
 The code used to create the diagram's can be found at https://github.com/coltonblair13/CIT360/blob/master/ControlPanelEtchASketch.java. The diagram can be found at https://github.com/coltonblair13/CIT360/blob/master/Appendix3%20-%20System%20Use%20Case.pdf. And the Description can be found at https://github.com/coltonblair13/CIT360/blob/master/Appendix%201%20-%20Use%20Case%20Descriptions.pdf. Both the diagram and the description are in PDF format. 
 
 Thank you for your time and patience in helping me through this class. Let me know if you have any problems. 
-End File -->﻿
+End File -->xz﻿
