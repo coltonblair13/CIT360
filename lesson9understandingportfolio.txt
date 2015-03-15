@@ -24,4 +24,6 @@ For this topic I didn't get to far into it but I learned that in socket programm
 
 When the connection is made, the server creates a socket object on its end of the communication. The client and server can now communicate by writing to and reading from the socket. 
 
-I also learned how to make a socket client example and a socket server example. These examples can be found at 
+I also learned how to make a socket client example and a socket server example. These examples can be found at https://github.com/coltonblair13/CIT360/tree/master/ClientandServerSockets I couldn't figure out how to actually compile the client and server so that it worked but I will continue to work on it. It is just a start for now. 
+
+Thanks!
