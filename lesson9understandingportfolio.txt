@@ -7,9 +7,15 @@ This week I taught the model view controller pattern to my group during our grou
 
 I also share some code that I have been working with. I created a modelviewcontrollerpattern folder out on my github that contains the code. What I did was create a student object acting as the model and a StudentView that will be the view class which will pring the student details on console and then a studentController which is the controller class responsible for storing the data in Student object and update view StudentView accordingly.
 
-Each of these including the output can be found on my github at  
+Each of these including the output can be found on my github at  https://github.com/coltonblair13/CIT360/tree/master/modelviewcontrollerpattern
 
 
+
+State Diagram
+
+ I also completed a State Diagram using lucidcharts. I learned that a state diagram depicts the various states that an object may be in and the transitions between those states. A state represents the a stage in the behavior pattern of an object and like activity diagrams it is possible to have initial states and final states. I completed a state diagram of a etch a sketch program. This was the same code that I used to complete the other diagrams. I thought it would be a good idea and easier to use the same code. It helps it make more sense in my mind. 
+
+ The code that I used can be found at https://github.com/coltonblair13/CIT360/blob/master/ControlPanelEtchASketch.java and my diagram can be found at 
 
 
 
