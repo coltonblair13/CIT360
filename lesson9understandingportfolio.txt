@@ -15,7 +15,13 @@ State Diagram
 
  I also completed a State Diagram using lucidcharts. I learned that a state diagram depicts the various states that an object may be in and the transitions between those states. A state represents the a stage in the behavior pattern of an object and like activity diagrams it is possible to have initial states and final states. I completed a state diagram of a etch a sketch program. This was the same code that I used to complete the other diagrams. I thought it would be a good idea and easier to use the same code. It helps it make more sense in my mind. 
 
- The code that I used can be found at https://github.com/coltonblair13/CIT360/blob/master/ControlPanelEtchASketch.java and my diagram can be found at 
+ The code that I used can be found at https://github.com/coltonblair13/CIT360/blob/master/ControlPanelEtchASketch.java and my diagram can be found at https://github.com/coltonblair13/CIT360/blob/master/Appendix%206%20-%20State%20Diagram.pdf
 
 
+Client and Server sockets
 
+For this topic I didn't get to far into it but I learned that in socket programming sockets provide the communication mechanism between two computers using TCP. A client program creates a socket on its end of the communication and attempts to connect that socket to a server. 
+
+When the connection is made, the server creates a socket object on its end of the communication. The client and server can now communicate by writing to and reading from the socket. 
+
+I also learned how to make a socket client example and a socket server example. These examples can be found at 
