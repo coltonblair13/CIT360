@@ -1,0 +1,15 @@
+<!-- Start File
+Understanding Portfolio — Week of March 9th - March 14th
+
+Model View Controller Pattern
+
+This week I taught the model view controller pattern to my group during our group meeting. I covered most of this in the recording. It can be found on our group page at https://plus.google.com/communities/103827854741093694877 and my teaching starts at about the 14 minute mark for this topic. 
+
+I also share some code that I have been working with. I created a modelviewcontrollerpattern folder out on my github that contains the code. What I did was create a student object acting as the model and a StudentView that will be the view class which will pring the student details on console and then a studentController which is the controller class responsible for storing the data in Student object and update view StudentView accordingly.
+
+Each of these including the output can be found on my github at  
+
+
+
+
+
