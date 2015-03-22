@@ -1,0 +1,11 @@
+<!-- Start File
+Understanding Portfolio — Week of March 16 - march 21
+
+Threads, Executers, Runnables, and android handlers
+
+This week for our group meeting I taught about Threads, Executers, Runnables, and Android Handlers. I mainly focused on threads and android handlers. You can see my presentation on our google community page at https://plus.google.com/photos/108923903387479234320/albums/6127769734908221409/6127769737717398226?fd=1&sqi=103827854741093694877&sqsi=54759895-e6d2-4124-8d3d-2e70d95df460&pid=6127769737717398226&oid=108923903387479234320 and my part starts at about 25:22. The code that I ended up using to create it can be found on my github at 
+
+
+
+
+Thanks!
