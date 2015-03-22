@@ -27,5 +27,15 @@ Read the response. Response headers typically include metadata such as the respo
 Disconnect. Once the response body has been read, the HttpURLConnection should be closed by calling disconnect(). Disconnecting releases the resources held by a connection so they may be closed or reused.
 
 
-Some code for this topic that I have started on can be found at 
+Some code for this topic that I have started on can be found at https://github.com/coltonblair13/CIT360/tree/master/httpurlconnection
+
+Application Controller
+
+I have just started learning about the application controller pattern. From what I understand Some applications contain a significant amount of logic about the screens to use at different points. This is called a wizard style of interaction, where the user is led through a series of screens in a certain order. 
+
+To some degree the model view controller input controllers can make some of these decisions but as the application gets more complex this can lead to duplicated code because severl controllers for many different screens would need to know what to do in many different situations. 
+
+By placing all the flow logic in an application controller you can remove this duplication Input controllers than ask the application controller for the appropriate commands for execution against a model and the correct view to use depending on the application context. 
+
+
 Thanks!
