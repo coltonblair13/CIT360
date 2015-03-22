@@ -12,6 +12,20 @@ Class Diagram
 
 According to Wikipedia, a Class Diagram "in the Unified Modeling Language (UML) is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships among objects". Although this definition is pretty clear, you have to understand that Class Diagram are part of the system model's Logical View.
 
-You can find my class diagram at 
+You can find my class diagram at https://github.com/coltonblair13/CIT360/blob/master/Appendix4ClassDiagram.pdf and the code that I used to create it at https://github.com/coltonblair13/CIT360/blob/master/ControlPanelEtchASketch.java. I also used BlueJ to create this diagram. That is a pretty cool tool that I have used in the past and remembered it to create this. 
 
+Android HTTTPURLConnection
+
+An URLConnection for HTTP is used to send and receive data over the web. Data may be of any type and length. This class may be used to send and receive streaming data whose length is not known in advance.
+
+Uses of this class follow a pattern:
+
+Obtain a new HttpURLConnection by calling URL.openConnection() and casting the result to HttpURLConnection.
+Prepare the request. The primary property of a request is its URI. Request headers may also include metadata such as credentials, preferred content types, and session cookies.
+Optionally upload a request body. Instances must be configured with setDoOutput(true) if they include a request body. Transmit data by writing to the stream returned by getOutputStream().
+Read the response. Response headers typically include metadata such as the response body's content type and length, modified dates and session cookies. The response body may be read from the stream returned by getInputStream(). If the response has no body, that method returns an empty stream.
+Disconnect. Once the response body has been read, the HttpURLConnection should be closed by calling disconnect(). Disconnecting releases the resources held by a connection so they may be closed or reused.
+
+
+Some code for this topic that I have started on can be found at 
 Thanks!
