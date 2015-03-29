@@ -1,0 +1,25 @@
+<!-- Start File
+Understanding Portfolio — Week of March 23 - march 28
+
+Interacts professionally with the instructor via questions, expositions, and other types of interactions
+
+Most of my interactions with you have come in the form of emails where I have sent you questions and concerns that I have had. I think that you could also grade me on this with my weekly reflections and these understanding portfolios. You can find my weekly reflections on the class community under that section. I have also replied to some of your threads that you have posted. One in particular was your post on Feb. 17 titled Learn to Love Programming. You discussed how sometimes programming assignments seem pointless and restrictive but that when you enter the workforce real problems require critical thinking and creativity to solve. What I got from that is to have an open mind when doing these assignemnts. They server a purpose and that I can move on from those assignements and improve on them. Just because the assignment may be restrictive doesn't mean that I have to stay inside those parameters when I am done with the assignment. I can branch out on my own and learn more. I replied to this post about my feelings on the subject. You can find it in the discussion thread on Feb. 17th. 
+
+Interacts professionally and helpfully with other teams
+
+For my evidence in this section I have been able to help some individuals a couple of times that have posted in the class community that have had questions or asked for help. One of them had a similar problem with eclipse that I had. The problem came with an update to eclipse and made it so that the application wouldn't start. In one of our group meetings Brooke Porter and I discussed this problem and we found that both of us had the same problem before so were able to go on to her post and share some insights with how we fixed our own problem. 
+
+You can see this post on the class community in the discussion section. https://plus.google.com/communities/106399213824247760608/stream/ed8e5aa2-cbe2-424a-a313-b71fc010d510. Sarah Schmutz posted the problem on Feb. 26th with a screen shot. I replied that same day with a link to a stack overflow thread I found that helped me correct my problem. That link is http://stackoverflow.com/questions/11461607/cant-start-eclipse-java-was-started-but-returned-exit-code-13. 
+
+I have also posted multiple sharing videos and weekly reflections for other teams to view on the class community. These would help them if someone happened to be stuck on a particular topic that I shared on and could view my video to help them out. An example of one of these videos can be found at https://www.youtube.com/watch?v=phFr1iobf1Y.
+
+Supports the team by teaching and advising them, and performing work outside of team meetings.
+
+Every week that I have met with my team I have been able to teach them about differnt topics and share my ideas with them. We have met every week and taught and learned from each other. I really liked our group dynamics and mentioned this in a couple of my early weekly reflections. You can find evidence of my teaching in our weekly group meetings. A couple of examples are at http://www.youtube.com/watch?v=DRtSZY2JiQQ where I teach about Junit and Unit testing. You can also see me teaching about Threads, Executers, Runnables, and Android Handlers on our google community at ttps://plus.google.com/photos/108923903387479234320/albums/6127769734908221409/6127769737717398226?fd=1&sqi=103827854741093694877&sqsi=54759895-e6d2-4124-8d3d-2e70d95df460&pid=6127769737717398226&oid=108923903387479234320. My part here starts at about 25:22. 
+
+Uses self-reflection/meta-cognition in team interactions and meetings.
+
+In the same video I mention above after I get done talking and teaching about these our group uses self reflection to go over what others have taught about this same subject. From what I presented it sparked a good discussion about what others have learned on this topic. Some disagreed with a part of what I had taught and shared what they had learned. I don't know how to prove this but after this discussion I realized that I didn't know as much as I wanted to about the subject so I spent some time reflecting on what they had shared with me and what I had shared with them. I then watched that section of the video over a couple of times and went to some of the links that they had shared on the subject and learned what they had. I feel that because I had spent more time then usual thinking about the things I had learned and then looking over the things that my group had learned I was better off and learned more about this subject then I normally would have. In the future I want to share the things I have learned with my group and will share that video with you as well as evidence of learning about that technology as well as this section of using self-reflection and meta-cognition. 
+
+
+Thanks!
